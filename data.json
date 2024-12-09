@@ -1,0 +1,27 @@
+{
+    "root": [
+        "chromedriver.dmg"
+    ],
+    "Applications": [
+        "Webstorm.dmg",
+        "Pycharm.dmg",
+        "FileZila.dmg",
+        "Mattermost.dmg"
+    ],
+    "Desktop": [
+        "Screenshot1.jpg",
+        "videopal.mp4"
+    ],
+    "Documents": [
+        "Document1.jpg",
+        "Document2.jpg",
+        "Document3.jpg"
+    ],
+    "Downloads": {
+        "Drivers": [
+            "cameradriver.dmg",
+            "Printerdriver.dmg"
+        ],
+        "Images": []
+    }
+}
